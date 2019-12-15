@@ -17,4 +17,4 @@ Answer: 1. The pateints are being honest.
 
 Question: What are 2-3 additional pieces of information that would be important to collect?
 
-Answer: Patients should be asked to categorise their stress. For example, is work or faimily or relationships their primary cause for their stress. Patients with stress-related habits, ie tooth grinding, nail biting, etc., could be asked to record instances of these behaviours.
+Answer: Patients should be asked to categorise their stress. For example, is work or faimily or relationships their primary cause for their stress. Patients with stress-related habits, ie tooth grinding, nail biting, etc., could be asked to record instances of these behaviours. The time and date of the patients therapy sessions should also be recorded.
