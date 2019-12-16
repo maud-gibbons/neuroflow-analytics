@@ -1,5 +1,4 @@
 import io
-import numpy as np
 import pandas as pd
 import os.path
 import matplotlib.pyplot as plt
@@ -23,8 +22,8 @@ pk = pk.groupby(['type', pd.Grouper(key='date',freq='M')]).value.mean().unstack(
 pk.index = pk.index.strftime('%b %y')
 
 #Dropping these attributes because they are under-reported and clutter the results
-pk.drop('anticipatoryStress',axis=1, inplace=True)
-pk.drop('ruminationStress',axis=1, inplace=True)
+pk.drop('anticipatoryStress', axis=1, inplace=True)
+pk.drop('ruminationStress', axis=1, inplace=True)
 
 #create the bar plot
 fig, ax = plt.subplots()
