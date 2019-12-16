@@ -1,6 +1,15 @@
 # neuroflow-analytics
 Solutions for the NeuroFlow Data Team Take-Home Project
 
+Requirements:
+Python
+-pandas
+-matplotlib
+
+To run: 
+1. Place suj_measures.csv in project folder
+2. > python Part-1.py
+
 Part 1
 Question: Given the information you have and any light research you’d like to do on the topic, what insights can you draw? 
 
